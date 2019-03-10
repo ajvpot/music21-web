@@ -1,4 +1,4 @@
 #from music21 import serial
 
 def test():
-    return "Hello from Python!"
+    return raw_input('lol'), "Hello from Python!"
